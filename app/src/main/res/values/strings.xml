@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">main</string>
+    <string name="btnCalc">Calcular</string>
+    <string name="textExplain">Calculadora</string>
+    <string name="erroOperacao">Operação Inválida</string>
+    <string name="camposVazios">Campos Vazios!</string>
+</resources>
